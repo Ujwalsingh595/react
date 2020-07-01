@@ -1,22 +1,32 @@
 {
   "files": {
-    "main.css": "/react/static/css/main.cc1eb84e.chunk.css",
-    "main.js": "/react/static/js/main.49062d90.chunk.js",
-    "main.js.map": "/react/static/js/main.49062d90.chunk.js.map",
-    "runtime-main.js": "/react/static/js/runtime-main.5d03a746.js",
-    "runtime-main.js.map": "/react/static/js/runtime-main.5d03a746.js.map",
-    "static/js/2.fa3f3a01.chunk.js": "/react/static/js/2.fa3f3a01.chunk.js",
-    "static/js/2.fa3f3a01.chunk.js.map": "/react/static/js/2.fa3f3a01.chunk.js.map",
-    "index.html": "/react/index.html",
-    "precache-manifest.754d12fcdedb8841a741a25d7626247d.js": "/react/precache-manifest.754d12fcdedb8841a741a25d7626247d.js",
-    "service-worker.js": "/react/service-worker.js",
-    "static/css/main.cc1eb84e.chunk.css.map": "/react/static/css/main.cc1eb84e.chunk.css.map",
-    "static/js/2.fa3f3a01.chunk.js.LICENSE.txt": "/react/static/js/2.fa3f3a01.chunk.js.LICENSE.txt"
+    "main.css": "/ujjushop/static/css/main.abb70559.chunk.css",
+    "main.js": "/ujjushop/static/js/main.5fd58426.chunk.js",
+    "main.js.map": "/ujjushop/static/js/main.5fd58426.chunk.js.map",
+    "runtime-main.js": "/ujjushop/static/js/runtime-main.51470c44.js",
+    "runtime-main.js.map": "/ujjushop/static/js/runtime-main.51470c44.js.map",
+    "static/css/2.75c4ecca.chunk.css": "/ujjushop/static/css/2.75c4ecca.chunk.css",
+    "static/js/2.8c499bda.chunk.js": "/ujjushop/static/js/2.8c499bda.chunk.js",
+    "static/js/2.8c499bda.chunk.js.map": "/ujjushop/static/js/2.8c499bda.chunk.js.map",
+    "index.html": "/ujjushop/index.html",
+    "precache-manifest.d7f5413fc4824af1db45cdf03cf765aa.js": "/ujjushop/precache-manifest.d7f5413fc4824af1db45cdf03cf765aa.js",
+    "service-worker.js": "/ujjushop/service-worker.js",
+    "static/css/2.75c4ecca.chunk.css.map": "/ujjushop/static/css/2.75c4ecca.chunk.css.map",
+    "static/css/main.abb70559.chunk.css.map": "/ujjushop/static/css/main.abb70559.chunk.css.map",
+    "static/js/2.8c499bda.chunk.js.LICENSE.txt": "/ujjushop/static/js/2.8c499bda.chunk.js.LICENSE.txt",
+    "static/media/1.jpg": "/ujjushop/static/media/1.15b28673.jpg",
+    "static/media/2.jpg": "/ujjushop/static/media/2.1ce13a00.jpg",
+    "static/media/2.png": "/ujjushop/static/media/2.9bf19840.png",
+    "static/media/3.jpg": "/ujjushop/static/media/3.2ba33f2c.jpg",
+    "static/media/4.jpg": "/ujjushop/static/media/4.a5879701.jpg",
+    "static/media/5.jpg": "/ujjushop/static/media/5.e65ac195.jpg",
+    "static/media/6.jpg": "/ujjushop/static/media/6.5488bd76.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.5d03a746.js",
-    "static/js/2.fa3f3a01.chunk.js",
-    "static/css/main.cc1eb84e.chunk.css",
-    "static/js/main.49062d90.chunk.js"
+    "static/js/runtime-main.51470c44.js",
+    "static/css/2.75c4ecca.chunk.css",
+    "static/js/2.8c499bda.chunk.js",
+    "static/css/main.abb70559.chunk.css",
+    "static/js/main.5fd58426.chunk.js"
   ]
 }
