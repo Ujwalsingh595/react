@@ -7,7 +7,7 @@ import Contact from "./Contact";
 import Home from "./Home";
 import Service from "./Service";
 import Menu from "./Menu";
-
+import Footer from "./Footer";
 const App=()=>{
     return (
         <>
@@ -19,7 +19,7 @@ const App=()=>{
             <Route path="/contact"component={Contact}/>
             <Redirect to="/"/>
         </Switch>
-  
+  <Footer/>
        
         </>
     );

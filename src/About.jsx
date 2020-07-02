@@ -1,5 +1,5 @@
 import React  from "react";
-import web from "../src/images/2.png";
+import web from "../src/images/3.png";
 import { NavLink } from "react-router-dom";
 import Common from "./Common";
 const About=()=>{
